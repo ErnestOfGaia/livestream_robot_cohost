@@ -1,0 +1,55 @@
+{
+  "tabs": [
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=BITSTAMP:BTCUSD",
+      "script": "Welcome everyone! Let's take a look at Bitcoin on the daily timeframe. We can see that price has been consolidating within a key range. The support level around 40,000 has held strong, while resistance near 45,000 continues to cap the upside. Volume has been declining during this consolidation, which often precedes a significant move. Keep an eye on these levels for potential breakout opportunities."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=BITSTAMP:ETHUSD",
+      "script": "Now let's analyze Ethereum. ETH has been showing relative strength compared to Bitcoin, maintaining its position above the 200-day moving average. The RSI is currently neutral, suggesting room for movement in either direction. Key support sits at 2,200 with resistance at 2,500. Watch for increasing volume as a confirmation signal for any directional move."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=NASDAQ:AAPL",
+      "script": "Shifting to traditional markets, Apple stock continues to be a market leader. The company's recent earnings beat expectations, and the technical picture remains bullish. We're seeing a classic cup and handle pattern forming on the weekly chart. A break above the current resistance could signal continuation of the uptrend."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=NASDAQ:TSLA",
+      "script": "Tesla is showing interesting price action after its recent pullback. The stock found support at the 50-day moving average and is attempting to recover. Sentiment around EV stocks has been mixed, but Tesla's fundamentals remain strong. Watch for a decisive close above the 20-day moving average for bullish confirmation."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=FX:EURUSD",
+      "script": "In the forex market, the Euro-Dollar pair is at a critical juncture. Recent ECB commentary has supported the Euro, while Fed policy expectations continue to influence Dollar strength. The pair is testing a key Fibonacci retracement level. A bounce here could target the next resistance, while a breakdown opens the door to further downside."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=COMEX:GC1!",
+      "script": "Gold futures are catching a bid as investors seek safe haven assets. Geopolitical tensions and inflation concerns continue to support precious metals. The yellow metal has broken above its 100-day moving average, and momentum indicators are turning bullish. The next target is the psychological 2,000 level."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=NYMEX:CL1!",
+      "script": "Crude oil is trading within a defined range as markets assess supply and demand dynamics. OPEC+ decisions continue to be a key driver. On the technical side, oil has formed a triangle pattern suggesting an imminent breakout. Watch the 75 and 85 dollar levels as the key boundaries."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=SP:SPX",
+      "script": "The S&P 500 index remains resilient despite various headwinds. Corporate earnings have generally exceeded expectations, providing support for valuations. The index is trading above all major moving averages, maintaining its long-term uptrend. The breadth indicators show healthy participation across sectors."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=TVC:DXY",
+      "script": "The US Dollar Index is a crucial indicator for global markets. Recent Fed communications have impacted Dollar strength significantly. The DXY is currently testing a key support zone. A breakdown here could benefit risk assets and commodities, while a bounce would pressure emerging markets and crypto."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=BINANCE:SOLUSDT",
+      "script": "Solana has been one of the standout performers in the altcoin space. The network's improved stability and growing ecosystem have attracted investor interest. Technically, SOL has broken out of a descending wedge pattern. The next resistance levels to watch are in the 120 to 150 range."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=BINANCE:BNBUSDT",
+      "script": "Binance Coin continues to benefit from the exchange's dominant position in the crypto market. The recent token burn has created deflationary pressure. On the chart, BNB is consolidating near all-time highs, building a base for potential continuation. The 400 level serves as key support."
+    },
+    {
+      "url": "https://www.tradingview.com/chart/?symbol=CRYPTOCAP:TOTAL",
+      "script": "Finally, let's look at the total crypto market cap. This metric gives us a bird's eye view of the entire cryptocurrency market. We've seen the total market cap stabilize after the recent volatility. The current level represents a key psychological zone. A sustained move above would signal renewed bullish momentum across the crypto space. Thank you for watching, and remember to do your own research before making any investment decisions."
+    }
+  ],
+  "rotationInterval": 45,
+  "speechRate": 1.0,
+  "volume": 1.0
+}

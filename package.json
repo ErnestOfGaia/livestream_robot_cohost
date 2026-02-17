@@ -1,0 +1,45 @@
+{
+  "name": "livestream-robot-cohost",
+  "version": "1.0.0",
+  "description": "Livestream automation app with interactive robot cohost for TradingView chart rotation",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder --win",
+    "build:dir": "electron-builder --win --dir"
+  },
+  "author": "Trading Stream Automation",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "dependencies": {
+    "electron-store": "^8.1.0",
+    "three": "^0.160.0"
+  },
+  "build": {
+    "appId": "com.trading.livestream-robot-cohost",
+    "productName": "Livestream Robot Cohost",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "build/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "files": [
+      "src/**/*",
+      "node_modules/**/*"
+    ]
+  }
+}
